@@ -42,7 +42,7 @@ featured: false
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: "https://www.youtube.com/watch?v=7gIGbvUNOhM&ab_channel=NeuroLaunchpadtalks"
+url_video: "https://www.youtube.com/watch?v=7gIGbvUNOhM&t=31m42s"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

@@ -73,6 +73,6 @@ email: ""
 highlight_name: false
 ---
 
-I am a postdoctoral researcher in the laboratory of {{< staticref "uploads/demo_resume.pdf" "newtab" >}}Carlos Brody{{< /staticref >}} at Princeton University.
+I am a postdoctoral researcher in the laboratory of {{< staticref "http://brodylab.org/" "newtab" >}}Carlos Brody{{< /staticref >}} at Princeton University.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

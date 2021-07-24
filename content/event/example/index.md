@@ -2,7 +2,7 @@
 title: Individual variability in the neural mechanisms underlying context-dependent decision-making
 
 event: NeuroLaunchpad seminar series
-event_url: https://example.org
+# event_url: https://example.org
 
 # location: Wowchemy HQ
 # address:
@@ -44,6 +44,8 @@ url_pdf: ""
 url_slides: ""
 url_video: "https://www.youtube.com/watch?v=7gIGbvUNOhM&t=31m42s"
 
+---
+
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
@@ -58,7 +60,7 @@ url_video: "https://www.youtube.com/watch?v=7gIGbvUNOhM&t=31m42s"
 #   Otherwise, set `projects = []`.
 # projects:
 # - example
----
+
 
 # {{% callout note %}}
 # Click on the **Slides** button above to view the built-in slides feature.

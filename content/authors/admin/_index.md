@@ -6,7 +6,7 @@ title: Marino Pagan
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoctoral researcher in Neuroscience
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -73,6 +73,6 @@ email: ""
 highlight_name: false
 ---
 
-I am a postdoctoral researcher in the laboratory of Carlos Brody at Princeton University.
+I am a postdoctoral researcher in the laboratory of {{< staticref "uploads/demo_resume.pdf" "newtab" >}}Carlos Brody{{< /staticref >}} at Princeton University.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

@@ -35,16 +35,11 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-
-I am a postdoctoral researcher in the laboratory of {{< staticref "http://brodylab.org/" "newtab" >}}Carlos Brody{{< /staticref >}} at Princeton University.
-
-My research focuses on the neural mechanisms underlying cognitive flexibility, our remarkable ability to rapidly switch our thoughts and actions between different tasks and contexts.
+I am a postdoctoral researcher in the laboratory of {{< staticref "http://brodylab.org/" "newtab" >}}Carlos Brody{{< /staticref >}} at Princeton University. My research focuses on the neural mechanisms underlying cognitive flexibility, our remarkable ability to rapidly switch our thoughts and actions between different tasks and contexts.
 
 I received my B.S. in Computer Engineering and my M.S. in Control Engineering from Scuola Superiore Sant’Anna and University of Pisa in Italy. I completed my Ph.D. in Neuroscience at University of Pennsylvania in the laboratory of {{< staticref "https://www.sas.upenn.edu/psych/rust-lab/index.html" "newtab" >}}Nicole Rust{{< /staticref >}}, where I studied the {{< staticref "https://www.nature.com/articles/nn.3433" "newtab" >}}neural circuits responsible for our ability to rapidly switch between different sought visual targets{{< /staticref >}}.
 
-Joining the laboratory of Carlos Brody for my postdoctoral studies, I aimed to train rats to solve complex rule switching tasks traditionally studied in primates, while leveraging the powerful experimental tools available in rodents.
-
-First, in collaboration with Ann Duan and Alex Piet, I studied the {{< staticref "https://www.nature.com/articles/s41593-021-00865-x" "newtab" >}}neural mechanisms in the superior colliculus underlying rapid sensorimotor remapping{{< /staticref >}}.
+Joining the laboratory of Carlos Brody for my postdoctoral studies, I aimed to train rats to solve complex rule switching tasks traditionally studied in primates, while leveraging the powerful experimental tools available in rodents. First, in collaboration with Ann Duan and Alex Piet, I studied the {{< staticref "https://www.nature.com/articles/s41593-021-00865-x" "newtab" >}}neural mechanisms in the superior colliculus underlying rapid sensorimotor remapping{{< /staticref >}}.
 
 Then, with the support of a {{< staticref "https://www.simonsfoundation.org/people/marino-pagan/" "newtab" >}}SCGB postdoctoral fellowship{{< /staticref >}}, I developed a novel behavioral paradigm requiring context-dependent decision-making in rats, and a high-throughput platform for the execution of electrophysiology and optogenetics experiments in freely-moving, behaving rats. Combining these experimental techniques with computational approaches, I seek to reveal the neural substrates of flexible behavior.
 

@@ -41,9 +41,9 @@ I received my B.S. in Computer Engineering and my M.S. in Control Engineering fr
 
 Joining the laboratory of Carlos Brody for my postdoctoral studies, I aimed to train rats to solve complex rule switching tasks traditionally studied in primates, while leveraging the powerful experimental tools available in rodents. First, in collaboration with Ann Duan and Alex Piet, I studied the {{< staticref "https://www.nature.com/articles/s41593-021-00865-x" "newtab" >}}neural mechanisms in the superior colliculus underlying rapid sensorimotor remapping{{< /staticref >}}.
 
-Then, with the support of a {{< staticref "https://www.simonsfoundation.org/people/marino-pagan/" "newtab" >}}SCGB postdoctoral fellowship{{< /staticref >}}, I developed a novel behavioral paradigm requiring context-dependent decision-making in rats, and a high-throughput platform for the execution of electrophysiology and optogenetics experiments in freely-moving, behaving rats. 
+Then, with the support of a {{< staticref "https://www.simonsfoundation.org/people/marino-pagan/" "newtab" >}}SCGB postdoctoral Fellowship{{< /staticref >}}, I developed a novel behavioral paradigm requiring context-dependent decision-making in rats, and a high-throughput platform for the execution of electrophysiology and optogenetics experiments in freely-moving, behaving rats. 
 
-As a {{< staticref "https://www.sfari.org/people/marino-pagan/" "newtab" >}}SFARI Bridge to Independence fellow{{< /staticref >}}, I will leverage this experimental and computational toolkit to dissect the neural substrates of flexible behavior, and to study how these circuits are altered in neurodevelopmental disorders such as Autism Spectrum Disorder.
+As a {{< staticref "https://www.sfari.org/people/marino-pagan/" "newtab" >}}SFARI Bridge to Independence Fellow{{< /staticref >}}, I will leverage this experimental and computational toolkit to dissect the neural substrates of flexible behavior, and to study how these circuits are altered in neurodevelopmental disorders such as Autism Spectrum Disorder.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_pagan.pdf" "newtab" >}}CV{{< /staticref >}}.

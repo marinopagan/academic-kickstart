@@ -40,11 +40,14 @@ I am a postdoctoral researcher in the laboratory of {{< staticref "http://brodyl
 
 My research focuses on the neural mechanisms underlying cognitive flexibility, our remarkable ability to rapidly switch our thoughts and actions between different tasks and contexts.
 
-I received my B.S. in Computer Engineering and my M.S. in Control Engineering from Scuola Superiore Sant’Anna and University of Pisa in Italy. I completed my Ph.D. in Neuroscience at University of Pennsylvania in the laboratory of Nicole Rust, where I {{< staticref "https://www.nature.com/articles/nn.3433" "newtab" >}}studied the neural circuits responsible for our ability to rapidly switch between different sought visual targets{{< /staticref >}}.
+I received my B.S. in Computer Engineering and my M.S. in Control Engineering from Scuola Superiore Sant’Anna and University of Pisa in Italy. I completed my Ph.D. in Neuroscience at University of Pennsylvania in the laboratory of {{< staticref "https://www.sas.upenn.edu/psych/rust-lab/index.html" "newtab" >}}Nicole Rust{{< /staticref >}}, where I {{< staticref "https://www.nature.com/articles/nn.3433" "newtab" >}}studied the neural circuits responsible for our ability to rapidly switch between different sought visual targets{{< /staticref >}}.
 
 Joining the laboratory of Carlos Brody for my postdoctoral studies, I aimed to train rats to solve complex rule switching tasks traditionally studied in primates, while leveraging the powerful experimental tools available in rodents.
 
 First, in collaboration with Ann Duan and Alex Piet, I studied the circuits in the superior colliculus underlying rapid sensorimotor remapping.
+
+
+https://www.nature.com/articles/s41593-021-00865-x
 
 Then, with the support of a SCGB postdoctoral fellowship, I developed a novel behavioral paradigm requiring context-dependent decision-making in rats, and a high-throughput platform for the execution of electrophysiology and optogenetics experiments in freely-moving, behaving rats. Combining these experimental techniques with computational approaches, I seek to reveal the neural substrates of flexible behavior.
 

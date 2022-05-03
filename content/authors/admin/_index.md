@@ -43,7 +43,7 @@ Joining the laboratory of Carlos Brody for my postdoctoral studies, I aimed to t
 
 Then, with the support of a {{< staticref "https://www.simonsfoundation.org/people/marino-pagan/" "newtab" >}}SCGB postdoctoral fellowship{{< /staticref >}}, I developed a novel behavioral paradigm requiring context-dependent decision-making in rats, and a high-throughput platform for the execution of electrophysiology and optogenetics experiments in freely-moving, behaving rats. 
 
-As a {{< staticref "https://www.sfari.org/people/marino-pagan/" "newtab" >}}SFARI Bridge to Independence fellow{{< /staticref >}}, I will leverage this experimental and computational toolkit to dissect the neural substrates of flexible behavior, and how these circuits are altered in neurodevelopmental disorders such as Autism Spectrum Disorder.
+As a {{< staticref "https://www.sfari.org/people/marino-pagan/" "newtab" >}}SFARI Bridge to Independence fellow{{< /staticref >}}, I will leverage this experimental and computational toolkit to dissect the neural substrates of flexible behavior, and to study how these circuits are altered in neurodevelopmental disorders such as Autism Spectrum Disorder.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_pagan.pdf" "newtab" >}}CV{{< /staticref >}}.

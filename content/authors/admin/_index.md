@@ -40,7 +40,7 @@ I am a postdoctoral researcher in the laboratory of {{< staticref "http://brodyl
 
 My research focuses on the neural mechanisms underlying cognitive flexibility, our remarkable ability to rapidly switch our thoughts and actions between different tasks and contexts.
 
-I received my B.S. in Computer Engineering and my M.S. in Control Engineering from {{< staticref "https://www.santannapisa.it/" "newtab" >}}Scuola Superiore Sant’Anna{{< /staticref >}} and University of Pisa in Italy. I completed my Ph.D. in Neuroscience at University of Pennsylvania in the laboratory of Nicole Rust, where I studied the neural circuits responsible for our ability to rapidly switch between different sought visual targets.
+I received my B.S. in Computer Engineering and my M.S. in Control Engineering from Scuola Superiore Sant’Anna and University of Pisa in Italy. I completed my Ph.D. in Neuroscience at University of Pennsylvania in the laboratory of Nicole Rust, where I {{< staticref "https://www.nature.com/articles/nn.3433" "newtab" >}}studied the neural circuits responsible for our ability to rapidly switch between different sought visual targets{{< /staticref >}}.
 
 Joining the laboratory of Carlos Brody for my postdoctoral studies, I aimed to train rats to solve complex rule switching tasks traditionally studied in primates, while leveraging the powerful experimental tools available in rodents.
 

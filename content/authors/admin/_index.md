@@ -35,7 +35,7 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am a postdoctoral researcher in the laboratory of {{< staticref "http://brodylab.org/" "newtab" >}}Carlos Brody{{< /staticref >}} at Princeton University. My research focuses on the neural mechanisms underlying cognitive flexibility, our remarkable ability to rapidly switch our thoughts and actions between different tasks and contexts.
+I am a postdoctoral researcher in the laboratory of {{< staticref "http://brodylab.org/" "newtab" >}}Carlos Brody{{< /staticref >}} at Princeton University. My research focuses on the neural mechanisms underlying cognitive flexibility, our remarkable ability to rapidly switch our thoughts and actions across different tasks.
 
 I received my B.S. in Computer Engineering and my M.S. in Control Engineering from Scuola Superiore Sant’Anna and University of Pisa in Italy. I completed my Ph.D. in Neuroscience at University of Pennsylvania in the laboratory of {{< staticref "https://www.sas.upenn.edu/psych/rust-lab/index.html" "newtab" >}}Nicole Rust{{< /staticref >}}, where I studied the {{< staticref "https://www.nature.com/articles/nn.3433" "newtab" >}}neural circuits responsible for our ability to rapidly switch between different sought visual targets{{< /staticref >}}.
 

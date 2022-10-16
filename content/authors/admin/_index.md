@@ -31,8 +31,6 @@ education:
     - course: Ph.D. in Neuroscience
       institution: University of Pennsylvania
       year: 2014
- publications:
-    - Pagan et al., 2013
 email: ""
 superuser: true
 highlight_name: false

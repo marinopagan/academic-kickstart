@@ -1,7 +1,6 @@
 ---
-title: Individual variability in the neural mechanisms underlying context-dependent decision-making
 
-event: NeuroLaunchpad seminar series
+
 # event_url: https://example.org
 
 # location: Wowchemy HQ
@@ -42,6 +41,6 @@ featured: false
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: "https://www.youtube.com/watch?v=7gIGbvUNOhM&t=31m42s"
+url_video: ""
 
 ---

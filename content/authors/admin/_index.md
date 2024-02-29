@@ -16,7 +16,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/marino-pagan-b4234a10/
 organizations:
-  - name: Princeton University
+  - name: Simons Initiative for the Developing Brain
 education:
   courses:
     - course: Laurea (B.S.) in Computer Engineering

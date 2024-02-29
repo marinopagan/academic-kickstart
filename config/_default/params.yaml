@@ -20,15 +20,15 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: mpagan@princeton.edu
+email: mpagan@ed.ac.uk
 #phone: 888 888 88 88
 address:
-  street: Washington Rd - Princeton Neuroscience Institute
-  city: Princeton
-  region: NJ
-  postcode: '08544'
-  country: United States
-  country_code: US
+  street: 1 George Square
+  city: Edinburgh
+  region: UK
+  postcode: 'EH8 9JZ'
+  country: United Kingdom
+  country_code: UK
 #coordinates:
 #  latitude: '37.4275'
 #  longitude: '-122.1697'

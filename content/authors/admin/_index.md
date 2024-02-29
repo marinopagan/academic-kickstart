@@ -1,6 +1,6 @@
 ---
 title: Marino Pagan
-role: Postdoctoral researcher in Neuroscience
+role: Group Leader at the Simons Initiative for the Developing Brain
 bio: ""
 social:
   - icon: envelope

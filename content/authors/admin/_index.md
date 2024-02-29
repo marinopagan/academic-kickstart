@@ -43,7 +43,7 @@ Joining the laboratory of {{< staticref "http://brodylab.org/" "newtab" >}}Carlo
 
 Then, with the support of a {{< staticref "https://www.simonsfoundation.org/people/marino-pagan/" "newtab" >}}SCGB postdoctoral Fellowship{{< /staticref >}}, I developed a {{< staticref "https://www.biorxiv.org/content/10.1101/2022.11.28.518207v1" "newtab" >}}novel behavioral paradigm requiring context-dependent decision-making in rats{{< /staticref >}}, and a high-throughput platform for the execution of electrophysiology and optogenetics experiments in freely-moving, behaving rats. 
 
-As a {{< staticref "https://www.sfari.org/people/marino-pagan/" "newtab" >}}SFARI Bridge to Independence Fellow{{< /staticref >}}, I plan to leverage this experimental and computational toolkit to dissect the neural substrates of flexible behavior, and to study how the relevant circuits are altered by genetic mutations associated with neurodevelopmental disorders such as Autism Spectrum Disorder.
+With the support of a {{< staticref "https://www.sfari.org/people/marino-pagan/" "newtab" >}}SFARI Bridge to Independence Fellowship{{< /staticref >}}, I am starting my lab at the {{< staticref "https://www.sidb.org.uk/marino-pagan/" "newtab" >}}Simons Initiative for the Developing Brain{{< /staticref >}} at the the University of Edinburgh. Here, I plan to leverage this experimental and computational toolkit to dissect the neural substrates of flexible behavior, and to study how the relevant circuits are altered by genetic mutations associated with neurodevelopmental disorders such as Autism Spectrum Disorder.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_pagan.pdf" "newtab" >}}CV{{< /staticref >}}.

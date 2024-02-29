@@ -16,7 +16,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/marino-pagan-b4234a10/
 organizations:
-  - name: Simons Initiative for the Developing Brain
+  - name: University of Edinburgh
 education:
   courses:
     - course: Laurea (B.S.) in Computer Engineering
